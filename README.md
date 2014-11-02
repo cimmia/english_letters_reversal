@@ -6,7 +6,9 @@ This a program that reverse English letters.
 
 就像这样：
 Hello,world!   //输入
+
 ——>
+
 iplɹoʍ'olləH   //输出
 
 它能反转全部小写字母和许多常见标点符号，在源代码里你很容易看到他们。
